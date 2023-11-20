@@ -2,6 +2,12 @@
 /dist
 /node_modules
 
+.env
+.ent.production
+.env.test
+.env.state
+.env.user-acceptance-test
+
 # Logs
 logs
 *.log
