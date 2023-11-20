@@ -3,9 +3,9 @@
 /node_modules
 
 .env
-.ent.production
+.env.production
 .env.test
-.env.state
+.env.stage
 .env.user-acceptance-test
 
 # Logs
